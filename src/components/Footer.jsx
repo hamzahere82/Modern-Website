@@ -142,7 +142,7 @@ const Footer = () => {
               variants={fadeIn('right', 1.0)}
               className="text-gray-600 text-sm"
             >
-              Copyright © {new Date().getFullYear()} codetutorbd.com
+              Copyright © {new Date().getFullYear()} WeTech.com
             </motion.p>
             <motion.p 
               variants={fadeIn('left', 1.0)}
